@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    background-image:URL(http://www.impacta.edu.br/blog/wp-content/uploads/2016/11/sistema_da_informacao_img01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px auto;
+    background-attachment: fixed;
+
+}
+
+html{
+    background-color: #00539F;
+}
+
+
+
+h1{
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Cinzel', serif;
+    color: white;
+}
+
+button{
+    font-family: 'Cinzel', serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Open Sans', sans-serif;
+    background-color: skyblue;
+    border: 2px solid skyblue;
+    color: white;
+    font-size: 20px;
+    border-radius: 40px 40px 40px 40px;
+    margin: 15px 0px auto 1300px;
+}
+
+img{
+    display: inline;
+    margin: -40px 0px auto 555px;
+}
