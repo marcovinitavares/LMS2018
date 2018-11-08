@@ -1,3 +1,3 @@
 function abrirOutraPag() {
-	window.location.href = "paginalogin";
+	window.location.href = "paginalogin.html";
 }
