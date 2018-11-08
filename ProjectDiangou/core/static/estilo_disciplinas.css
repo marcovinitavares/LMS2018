@@ -1,0 +1,42 @@
+body{
+    background-image: url(../static/imagens/imagem7.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    
+}
+header{
+    text-align: center;
+    font-size: 25px;
+
+}
+
+ol{
+    background-color: rgba(0, 0, 0, 0.596);
+    border-bottom: 1px solid #708090;
+    width: 100px;
+    padding-left: -300px;
+}
+nav ul ol:hover{
+    background-color:#fff;
+    color: #06065cad;
+
+}
+nav{
+    float: left;
+    width: 250px;
+}
+.dis1{
+    background-color: aqua;
+    height: 260px;
+    padding-top: 40px;
+    padding-right: 10px;
+    display: inline-block;
+    line-height: 25px;
+}
+div{
+    display: block;
+}
+
+
+

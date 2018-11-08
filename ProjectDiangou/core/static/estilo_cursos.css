@@ -1,0 +1,42 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    color: #FFFFFF;
+    line-height: 1.6;/* espaço em cada linha */
+    background-image: url(imagens/imagem5.jpg);
+    background-repeat: no-repeat;/*para nao repetir a imagem */
+    background-attachment: fixed;/*para fixar imagem e sem modificações da imagem*/
+    /* background-position: center; */
+    background-size:cover ;/*para deixar toda imagem ocupar a pagina html*/
+   
+}
+nav{
+    font-size: 17px;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;/*deixa alinhado na horizontal*/
+    text-decoration: none;/*elemina o sublinado*/
+    width: 350px;
+    border: 2px solid #708090;
+    margin:10px;/*define o espaço ocupado pela margem*/
+    /*define a separasao das letras das bordas*/
+    
+}
+h1{
+    
+    text-align: center;
+    text-decoration: #124fc2e1; 
+}
+header{
+    font-weight: bold;/*deixa o texto em negrilho*/
+    color: #124fc2e1;
+    text-align: center;
+    font-size: 20px;
+    width: 200px;
+}
+a :hover{
+    border-color:#06065cad;
+    background-color: #1250c25e;
+    color: black;
+}
+
